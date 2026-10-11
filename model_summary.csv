@@ -1,0 +1,3 @@
+Model,MAPE (%),Avg Weekly Error ($)
+ARIMA,12.12,783.0
+Prophet,5.18,331.0
